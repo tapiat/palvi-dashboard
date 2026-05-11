@@ -10,10 +10,12 @@ Elegí este stack porque permite desarrollar rápido y mantener el código orden
 
 React facilita construir componentes reutilizables, TypeScript ayuda a evitar errores durante el desarrollo y Vite hace que el entorno sea mucho más rápido y liviano al momento de trabajar.
 
-**Tailwind CSS**
-- Styling consistente sin escribir CSS custom
-- Clases utilitarias aceleran iteración
-- Fácil mantener coherencia visual sin convenciones adicionales
+
+### Tailwind CSS
+
+Usé Tailwind porque permite construir interfaces rápido sin tener que crear muchos archivos CSS separados.
+
+También ayuda a mantener un diseño consistente en todo el dashboard.
 
 **Recharts**
 - Librería declarativa de gráficos, suficiente para las visualizaciones necesarias
