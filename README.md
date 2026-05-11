@@ -4,10 +4,11 @@
 
 ### Stack elegido
 
-**React + TypeScript + Vite**
-- Setup rápido sin configuración compleja
-- Type safety sin overhead de desarrollo
-- Hot reload instantáneo durante desarrollo
+### React + TypeScript + Vite
+
+Elegí este stack porque permite desarrollar rápido y mantener el código ordenado.
+
+React facilita construir componentes reutilizables, TypeScript ayuda a evitar errores durante el desarrollo y Vite hace que el entorno sea mucho más rápido y liviano al momento de trabajar.
 
 **Tailwind CSS**
 - Styling consistente sin escribir CSS custom
