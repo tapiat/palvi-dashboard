@@ -17,10 +17,11 @@ Usé Tailwind porque permite construir interfaces rápido sin tener que crear mu
 
 También ayuda a mantener un diseño consistente en todo el dashboard.
 
-**Recharts**
-- Librería declarativa de gráficos, suficiente para las visualizaciones necesarias
-- API simple y predecible
-- Integración nativa con React
+### Recharts
+
+Elegí Recharts porque me permitió crear gráficos de forma rápida y mantener una integración sencilla con React.
+
+Para este proyecto necesitaba enfocarme más en el análisis de métricas que en construir gráficos complejos desde cero.
 
 ### Enfoque del dashboard
 
